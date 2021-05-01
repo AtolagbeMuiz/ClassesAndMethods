@@ -1,0 +1,16 @@
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\obj\Debug\net5.0\ClassesAndMethods.csprojAssemblyReference.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\obj\Debug\net5.0\ClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\obj\Debug\net5.0\ClassesAndMethods.AssemblyInfoInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\obj\Debug\net5.0\ClassesAndMethods.AssemblyInfo.cs
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\obj\Debug\net5.0\ClassesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\bin\Debug\net5.0\ClassesAndMethods.exe
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\bin\Debug\net5.0\ClassesAndMethods.deps.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\bin\Debug\net5.0\ClassesAndMethods.runtimeconfig.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\bin\Debug\net5.0\ClassesAndMethods.runtimeconfig.dev.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\bin\Debug\net5.0\ClassesAndMethods.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\bin\Debug\net5.0\ref\ClassesAndMethods.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\bin\Debug\net5.0\ClassesAndMethods.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\obj\Debug\net5.0\ClassesAndMethods.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\obj\Debug\net5.0\ref\ClassesAndMethods.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\obj\Debug\net5.0\ClassesAndMethods.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\ClassesAndMethods\obj\Debug\net5.0\ClassesAndMethods.genruntimeconfig.cache
